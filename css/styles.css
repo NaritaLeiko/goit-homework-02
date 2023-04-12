@@ -1,0 +1,66 @@
+:root
+ul { list-style: none; }
+body {background: #FFFFFF;
+    
+    }
+/* Header */
+    .header {text-decoration: none;
+        width: 1440px;
+height: 72px;
+
+    }
+    .header-nav {
+    }
+    .nav-logo {color: #2E2F42;
+        font-size: 18px;
+        font-style: none;
+        flex-direction: row;
+        align-items: center;
+        text-decoration: none;
+
+    }
+    .web-logo {color: #4D5AE5;
+        font-size: 18px;
+        font-style: none;
+        text-decoration: none;
+    }
+    .nav-list {color: #2E2F42;
+         flex-direction: row;
+         text-decoration: none;
+       
+        }
+    .nav-item {
+    }
+    .nav-link-studio {color: #2E2F42;
+       font-size: 16px;
+       text-decoration: none;
+
+    }
+    .nav-link-portfolio {color: #2E2F42;
+        font-size: 16px;
+        text-decoration: none;
+
+    }
+    .nav-link-contacts {color: #2E2F42;
+       font-size: 16px;
+       text-decoration: none;
+
+    }
+    .header-contacts {
+        text-align: right;
+    }
+    .contacts-list {
+       
+    }
+    .contacts-item {
+    }
+    .contacts-mail {text-decoration: none;
+        color: #2E2F42;
+        font-size: 16px;
+       
+    }
+    .contacts-phone {text-decoration: none;
+        color: #2E2F42;
+        font-size: 16px;
+      
+    }
