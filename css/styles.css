@@ -74,7 +74,7 @@ body {background: #FFFFFF;
         text-align: right;
         font-style: normal
     }
-    .list-contacts {
+    .list{
 
     } 
     .contacts-item {text-decoration: none;
@@ -137,7 +137,7 @@ body {background: #FFFFFF;
 .title-advantage {
 
 }
-.list-feature {
+.list {
 }
 .feature-1 {
 }
@@ -168,7 +168,7 @@ body {background: #FFFFFF;
     text-align: center;
     text-transform: capitalize;
 }
-.list-section {
+.list {
 }
 
 /* Saction 3 */
@@ -184,14 +184,14 @@ body {background: #FFFFFF;
     text-align: center;
 
 }
-.list-team {
+.list {
 }
 .team-card{background-color: #FFFFFF;
 
 }
 .team-photo {
 }
-.team-name {
+.team-name {color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
