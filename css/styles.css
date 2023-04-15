@@ -141,7 +141,7 @@ body {background: #FFFFFF;
 }
 .feature-1 {
 }
-.feat-name {
+.feat-name { color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -161,25 +161,27 @@ body {background: #FFFFFF;
 /* Saction 2 */
 .section-2 {
 }
-.section-name {
+.section-name {color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;
 }
-.saction-list {
+.list-section {
 }
 
 /* Saction 3 */
 .team { background: #F4F4FD;
 }
 .team-title {
+    color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 
 }
 .list-team {
